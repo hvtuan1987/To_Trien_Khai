@@ -22,6 +22,7 @@ assignees: lqbinh1987
 
 -  ![nguoi_ghi_nhan](https://img.shields.io/badge/Người%20ghi%20nhận-:-blue?style=plastic&logo=github) **nguoi_ghi_nhan**
 -  ![ngay_tiep_nhan](https://img.shields.io/badge/Ngày%20chi%20nhận-:-blue?style=plastic&logo=github) **ngay_tiep_nhan**
+-  ![ngay_hoan_thanh](https://img.shields.io/badge/Ngày%20hoàn%20thành-:-blue?style=plastic&logo=github) **ngay_hoan_thanh**
 -  ![mabvbh](https://img.shields.io/badge/Mã%20bệnh%20viện-:-blue?style=plastic&logo=github) `mabvbh`
 -  ![khach_hang](https://img.shields.io/badge/Bệnh%20viện-:-blue?style=plastic&logo=github) **khach_hang**
 
