@@ -1,6 +1,6 @@
 ---
 name: Phiếu yêu cầu hỗ trợ
-about: Hỗ trợ
+about: Yêu cầu hỗ trợ
 title: 'Hỗ trợ - '
 labels: Ghi nhận
 assignees: lqbinh1987
