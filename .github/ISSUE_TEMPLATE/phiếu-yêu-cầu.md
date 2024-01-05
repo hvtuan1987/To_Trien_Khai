@@ -2,7 +2,7 @@
 name: Phiếu yêu cầu
 about: Yêu cầu thực hiện công việc
 title: 'Yêu cầu - '
-labels: ''
+labels: Bình thường
 assignees: lqbinh1987
 
 ---
